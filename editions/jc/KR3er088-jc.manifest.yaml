@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3er088_001-jc.yaml, hash: 'sha256:510345498909927e4099c5585c5b8aa8ca1d91dfb51d8f74daab5a0c542d84da'}
+  - {seq: 1, filename: KR3er088_001-jc.yaml, hash: 'sha256:d27b5c07349517c84443e3ba4941e1467b3603bb348862c8a8f0e11f398787e2'}
   - {seq: 2, filename: KR3er088_002-jc.yaml, hash: 'sha256:36573b10f287252707480b404762796940e250337bd62bb3ef0dee0e056899ce'}
   - {seq: 3, filename: KR3er088_003-jc.yaml, hash: 'sha256:3907a20ced0eb081ce6dee7fa6f3698214748c7d494c8989a4dd6fc5d61fb707'}
   - {seq: 4, filename: KR3er088_004-jc.yaml, hash: 'sha256:aa893196359ff9c343bc8273c0d06d2c35808954f48eabd475c06bf2369e4e61'}
@@ -48,7 +48,7 @@ assets:
   - {seq: 29, filename: KR3er088_029-jc.yaml, hash: 'sha256:79158cb0fd43f6f49095ee1db794cdd023146c88c94ab6d52d408d52491a14cb'}
   - {seq: 30, filename: KR3er088_030-jc.yaml, hash: 'sha256:617ccb96877361a770dbfcaf777d82167917535ff29a759796c31e9d3cace08e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er088_001-jc.markers.yaml, hash: 'sha256:d8249271180c4b91f2087d390f9631f9b3f7a6daea8e0634ba6b197a4232600a'}
+  - {seq: 1, role: markers, filename: assets/KR3er088_001-jc.markers.yaml, hash: 'sha256:e0a608b83cfb1ce4cca624f7428d6523f9cfce8186501526e19057306b63e6e6'}
   - {seq: 2, role: markers, filename: assets/KR3er088_002-jc.markers.yaml, hash: 'sha256:873d95b41c59b5f4f807529d42844c12d6165b907eb6d19babe2e6ef240bd918'}
   - {seq: 3, role: markers, filename: assets/KR3er088_003-jc.markers.yaml, hash: 'sha256:b04886da400978405a43494aa401be5690ad704ea39ddb82d8425fcc1872526a'}
   - {seq: 4, role: markers, filename: assets/KR3er088_004-jc.markers.yaml, hash: 'sha256:61314157e14411c13dd90207faa5568dd655be3e9855caad94aa18cf60adcd99'}
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er088_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 769
   label: 備急千金要方序
@@ -18329,4 +18329,4 @@ table_of_contents:
   label: 小兒病第九
   type: section
   level: 2
-hash: sha256:b311665dcb08ae8df754abd19d8fff9895abc02c65c3157b5ce13a291e922abf
+hash: sha256:7efd286ec0ed81e23ee457b7fc521aa52ce06e926f4d0b9071fd3791dfd204b3
